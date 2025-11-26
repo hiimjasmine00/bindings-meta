@@ -671,7 +671,7 @@ cocos2d::CCLayer::didAccelerate - 0x4088e0
 cocos2d::CCLayer::keyBackClicked - 0x408b4c
 cocos2d::CCLayer::keyMenuClicked - 0x408bf4
 cocos2d::CCLayer::keyDown - 0x408c84
-cocos2d::CCLayerRGBA::CCLayerRGBA - 0x4094b8
+cocos2d::CCLayerRGBA::CCLayerRGBA - 0x4093d0
 cocos2d::CCLayerRGBA::~CCLayerRGBA - 0x4095a0
 cocos2d::CCLayerRGBA::init - 0x4097b0
 cocos2d::CCLayerRGBA::setColor - 0x4099d4
@@ -1924,7 +1924,6 @@ GameObject::saveActiveColors - 0x4e93b4
 GameObject::spawnXPosition - 0x19999c
 GameObject::updateParticleColor - 0x4e9764
 GameObject::updateParticleOpacity - 0x4dede4
-GameObject::getObjectLabel - 0x8d390
 GameObject::shouldDrawEditorHitbox - 0x4ec0bc
 GameObject::getObjectRectDirty - 0x1999bc
 GameObject::setObjectRectDirty - 0x1999c4
@@ -7591,11 +7590,16 @@ PlayerObject::PlayerObject - 0x388d18
 PlayerObject::~PlayerObject - 0x36a6a8
 PlayerObject::create - 0x36a89c
 PlayerObject::update - 0x36cf1c
+PlayerObject::setScaleX - 0x38871c
+PlayerObject::setScaleY - 0x388720
+PlayerObject::setScale - 0x388724
 PlayerObject::setPosition - 0x3856d8
 PlayerObject::setVisible - 0x388728
+PlayerObject::setRotation - 0x3886ac
 PlayerObject::setOpacity - 0x386714
 PlayerObject::setColor - 0x38612c
 PlayerObject::setFlipX - 0x3886b0
+PlayerObject::setFlipY - 0x388718
 PlayerObject::resetObject - 0x37ed44
 PlayerObject::getRealPosition - 0x386910
 PlayerObject::getOrientedBox - 0x387ab4
