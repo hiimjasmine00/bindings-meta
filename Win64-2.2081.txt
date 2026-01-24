@@ -1856,7 +1856,6 @@ GameOptionsLayer::onUIPOptions - 0x2a0410
 GameOptionsLayer::showPracticeMusicSyncUnlockInfo - 0x29fa10
 GameOptionsTrigger::customObjectSetup - 0x49f450
 GameOptionsTrigger::getSaveString - 0x49ece0
-GameStatsManager::GameStatsManager - 0x1d0ae0
 GameStatsManager::sharedState - 0x1d0ef0
 GameStatsManager::init - 0x1d1110
 GameStatsManager::addSimpleSpecialChestReward - 0x1ea0a0

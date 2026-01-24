@@ -540,6 +540,7 @@ cocos2d::CCDrawNode::drawDot - 0x6112a0
 cocos2d::CCDrawNode::drawLines - 0x612e20
 cocos2d::CCDrawNode::drawPolygon - 0x6124d0
 cocos2d::CCDrawNode::drawPreciseCubicBezier - 0x611870
+cocos2d::CCDrawNode::drawRect - 0x612c60
 cocos2d::CCDrawNode::drawRect - 0x612cf0
 cocos2d::CCDrawNode::drawSegment - 0x6124b0
 cocos2d::CCDrawNode::enableDrawArea - 0x6111b0
@@ -3516,6 +3517,7 @@ PulseEffectAction::valueForDelta - 0x2d9430
 OpacityEffectAction::step - 0x2d9340
 SpawnTriggerAction::isFinished - 0x2d94f0
 SpawnTriggerAction::step - 0x2d94c0
+KeyframeObject::setupSpline - 0x10d6c0
 GroupCommandObject2::GroupCommandObject2 - 0x4ecb30
 GroupCommandObject2::reset - 0x4ecd00
 GroupCommandObject2::resetDelta - 0x4ed4f0
@@ -4832,6 +4834,7 @@ FMODAudioEngine::start - 0x3dde50
 FMODAudioEngine::startMusic - 0x3e76a0
 FMODAudioEngine::stop - 0x3dded0
 FMODAudioEngine::stopAllEffects - 0x3de090
+FMODAudioEngine::stopAllMusic - 0x3de470
 FMODAudioEngine::stopAndGetFade - 0x3e5f00
 FMODAudioEngine::stopAndRemoveMusic - 0x3e9b70
 FMODAudioEngine::stopChannel - 0x3e49b0
@@ -6651,6 +6654,7 @@ GJRequestCell::uploadActionFinished - 0x257ce0
 GJRequestCell::uploadActionFailed - 0x257ef0
 GJRequestCell::onClosePopup - 0x258000
 GJRequestCell::loadFromScore - 0x24c220
+GJRequestCell::markAsRead - 0x2579a0
 GJRequestCell::onDeleteRequest - 0x257870
 GJRequestCell::onToggle - 0x257980
 GJRequestCell::onViewFriendRequest - 0x257770
